@@ -1,7 +1,7 @@
 import { createApp } from 'vue';
 import './style.scss';
 import App from './App.vue';
-import { createRouter, createWebHashHistory, createWebHistory } from 'vue-router';
+import { createRouter, createWebHistory } from 'vue-router';
 
 import Home from './pages/Home.vue';
 import ToDo from './pages/ToDo.vue';

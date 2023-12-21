@@ -1,7 +1,6 @@
 <script setup>
-    import { ref } from 'vue';
-    import Modal from './Modal.vue'
-    defineProps(['open', 'src', 'alt']);
+import Modal from './Modal.vue';
+defineProps(['open', 'src', 'alt']);
 </script>
 
 <template>

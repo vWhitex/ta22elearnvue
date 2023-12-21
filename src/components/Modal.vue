@@ -1,6 +1,5 @@
 <script setup>
-    import { ref } from 'vue';
-    defineProps(['open']);
+defineProps(['open']);
 </script>
 
 <template>
